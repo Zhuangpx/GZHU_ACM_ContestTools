@@ -1,4 +1,4 @@
-# GZHU_ACM_ContestTool
+# GZHU_ACM_ContestTools
 
 GZHU比赛工具集。
 
